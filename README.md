@@ -28,7 +28,7 @@ library targets the single-threaded case.
 ## Install
 
 ```bash
-pip install ringbuf
+python -m pip install -e .
 ```
 
 `ringbuf` requires Python 3.10 or newer. Zero runtime dependencies.
